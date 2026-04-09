@@ -2,7 +2,8 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Celia’s Apparel</title>
+  <title>my photos
+</title>
 
   <style>
     body {
@@ -57,7 +58,6 @@
       margin-top: 5px;
     }
 
-    /* WhatsApp button */
     .btn {
       display: block;
       text-align: center;
@@ -89,11 +89,11 @@
 <body>
 
 <header>
-  Celia’s Apparel
+  Codekid12
 </header>
 
 <div class="intro">
-  New arrivals available 💃✨<br>
+  New arrivals available <br>
   Tap to order directly on WhatsApp
 </div>
 
